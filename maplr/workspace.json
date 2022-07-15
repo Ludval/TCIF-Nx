@@ -1,0 +1,12 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "calendar": "apps/calendar",
+    "meteo-widget": "apps/meteo-widget",
+    "personal-dashboard": "apps/personal-dashboard",
+    "personal-dashboard-e2e": "apps/personal-dashboard-e2e",
+    "stocks": "apps/stocks",
+    "ui-kit": "libs/ui-kit"
+  }
+}
